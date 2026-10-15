@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "luminitemod:block/blue_luminite_block",
+    "side": "luminitemod:block/blue_luminite_block",
+    "top": "luminitemod:block/blue_luminite_block"
+  }
+}

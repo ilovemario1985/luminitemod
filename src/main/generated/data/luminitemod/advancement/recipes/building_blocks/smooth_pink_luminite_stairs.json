@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_smooth_pink_luminite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "luminitemod:smooth_pink_luminite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "luminitemod:smooth_pink_luminite_stairs"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_smooth_pink_luminite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "luminitemod:smooth_pink_luminite_stairs"
+    ]
+  }
+}

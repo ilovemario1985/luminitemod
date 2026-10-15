@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "luminitemod:luminite",
+    "minecraft:light_blue_dye",
+    "minecraft:blue_dye",
+    "minecraft:cyan_dye"
+  ],
+  "result": {
+    "id": "luminitemod:blue_luminite"
+  }
+}

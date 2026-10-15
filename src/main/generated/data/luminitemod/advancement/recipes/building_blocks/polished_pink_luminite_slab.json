@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_polished_pink_luminite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "luminitemod:polished_pink_luminite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "luminitemod:polished_pink_luminite_slab"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_polished_pink_luminite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "luminitemod:polished_pink_luminite_slab"
+    ]
+  }
+}

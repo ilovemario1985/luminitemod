@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "pink_luminite",
+  "key": {
+    "#": "luminitemod:pink_luminite_block"
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "luminitemod:pink_luminite_stairs"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "luminitemod:luminite",
+    "minecraft:pink_dye",
+    "minecraft:magenta_dye",
+    "minecraft:purple_dye"
+  ],
+  "result": {
+    "id": "luminitemod:pink_luminite"
+  }
+}

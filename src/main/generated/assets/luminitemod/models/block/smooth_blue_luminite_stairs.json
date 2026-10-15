@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "luminitemod:block/smooth_blue_luminite",
+    "side": "luminitemod:block/smooth_blue_luminite",
+    "top": "luminitemod:block/smooth_blue_luminite"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "item.luminitemod.luminite": "Luminite",
+  "item.luminitemod.blue_luminite": "Blue Luminite",
+  "item.luminitemod.pink_luminite": "Pink Luminite",
+  "item.luminitemod.raw_luminite": "Raw Luminite",
+
+  "block.luminitemod.luminite_block": "Luminite Block",
+  "block.luminitemod.raw_luminite_block": "Block of Raw Luminite",
+  "block.luminitemod.luminite_ore": "Luminite Ore",
+  "block.luminitemod.deepslate_luminite_ore": "Deepslate Luminite Ore",
+  "block.luminitemod.nether_luminite_ore": "Nether Luminite Ore",
+  "block.luminitemod.end_luminite_ore": "End Luminite Ore",
+
+  "block.luminitemod.pink_luminite_block": "Pink Luminite Block",
+  "block.luminitemod.pink_luminite_bricks": "Pink Luminite Bricks",
+  "block.luminitemod.chiseled_pink_luminite_bricks": "Chiseled Pink Luminite Bricks",
+  "block.luminitemod.smooth_pink_luminite": "Smooth Pink Luminite",
+  "block.luminitemod.polished_pink_luminite": "Polished Pink Luminite",
+  "block.luminitemod.cut_pink_luminite": "Cut Pink Luminite",
+  "block.luminitemod.pink_luminite_grate": "Pink Luminite Grate",
+
+  "block.luminitemod.pink_luminite_stairs": "Pink Luminite Stairs",
+  "block.luminitemod.pink_luminite_slab": "Pink Luminite Slab",
+  "block.luminitemod.pink_luminite_brick_stairs": "Pink Luminite Brick Stairs",
+  "block.luminitemod.pink_luminite_brick_slab": "Pink Luminite Brick Slab",
+  "block.luminitemod.smooth_pink_luminite_stairs": "Smooth Pink Luminite Stairs",
+  "block.luminitemod.smooth_pink_luminite_slab": "Smooth Pink Luminite Slab",
+  "block.luminitemod.polished_pink_luminite_stairs": "Polished Pink Luminite Stairs",
+  "block.luminitemod.polished_pink_luminite_slab": "Polished Pink Luminite Slab",
+  "block.luminitemod.cut_pink_luminite_stairs": "Cut Pink Luminite Stairs",
+  "block.luminitemod.cut_pink_luminite_slab": "Cut Pink Luminite Slab",
+
+  "block.luminitemod.blue_luminite_block": "Blue Luminite Block",
+  "block.luminitemod.blue_luminite_bricks": "Blue Luminite Bricks",
+  "block.luminitemod.chiseled_blue_luminite_bricks": "Chiseled Blue Luminite Bricks",
+  "block.luminitemod.smooth_blue_luminite": "Smooth Blue Luminite",
+  "block.luminitemod.polished_blue_luminite": "Polished Blue Luminite",
+  "block.luminitemod.cut_blue_luminite": "Cut Blue Luminite",
+  "block.luminitemod.blue_luminite_grate": "Blue Luminite Grate",
+
+  "block.luminitemod.blue_luminite_stairs": "Blue Luminite Stairs",
+  "block.luminitemod.blue_luminite_slab": "Blue Luminite Slab",
+  "block.luminitemod.blue_luminite_brick_stairs": "Blue Luminite Brick Stairs",
+  "block.luminitemod.blue_luminite_brick_slab": "Blue Luminite Brick Slab",
+  "block.luminitemod.smooth_blue_luminite_stairs": "Smooth Blue Luminite Stairs",
+  "block.luminitemod.smooth_blue_luminite_slab": "Smooth Blue Luminite Slab",
+  "block.luminitemod.polished_blue_luminite_stairs": "Polished Blue Luminite Stairs",
+  "block.luminitemod.polished_blue_luminite_slab": "Polished Blue Luminite Slab",
+  "block.luminitemod.cut_blue_luminite_stairs": "Cut Blue Luminite Stairs",
+  "block.luminitemod.cut_blue_luminite_slab": "Cut Blue Luminite Slab",
+
+
+  "creativemodetab.luminitemod.luminite_items": "Luminite Items",
+  "creativemodetab.luminitemod.luminite_blocks": "Luminite Blocks"
+}

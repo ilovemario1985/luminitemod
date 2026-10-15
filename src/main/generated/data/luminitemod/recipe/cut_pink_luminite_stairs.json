@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "cut_pink_luminite",
+  "key": {
+    "#": "luminitemod:cut_pink_luminite"
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "luminitemod:cut_pink_luminite_stairs"
+  }
+}

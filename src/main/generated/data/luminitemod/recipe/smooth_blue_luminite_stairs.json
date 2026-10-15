@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "smooth_blue_luminite",
+  "key": {
+    "#": "luminitemod:smooth_blue_luminite"
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "luminitemod:smooth_blue_luminite_stairs"
+  }
+}

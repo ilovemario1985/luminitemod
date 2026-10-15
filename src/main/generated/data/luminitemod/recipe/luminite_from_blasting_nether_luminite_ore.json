@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "cookingtime": 100,
+  "experience": 0.5,
+  "group": "luminite",
+  "ingredient": "luminitemod:nether_luminite_ore",
+  "result": {
+    "id": "luminitemod:luminite"
+  }
+}

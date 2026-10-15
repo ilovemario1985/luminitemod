@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "luminitemod:cut_pink_luminite_stairs"
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+// 26.3	-999999999-01-01T00:00:00	Luminite Mod/Tags for minecraft:block
+4f36f4b370e14e387e44ad76c8d5437c0b15cf08 data/minecraft/tags/block/mineable/pickaxe.json
+4f36f4b370e14e387e44ad76c8d5437c0b15cf08 data/minecraft/tags/block/needs_diamond_tool.json
+1a08f1c1efc6187337ca8aeb5ec02fa81a25b9e2 data/minecraft/tags/block/ores.json
+2657095c13a50af6032d65699524bf6d3deb11a5 data/minecraft/tags/block/slabs.json
+846262edb3be086b3f7af478e9d00d099b003f69 data/minecraft/tags/block/stairs.json

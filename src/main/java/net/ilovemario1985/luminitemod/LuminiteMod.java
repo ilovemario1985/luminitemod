@@ -2,6 +2,9 @@ package net.ilovemario1985.luminitemod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.ilovemario1985.luminitemod.block.ModBlocks;
+import net.ilovemario1985.luminitemod.creativemodetab.ModCreativeModeTabs;
+import net.ilovemario1985.luminitemod.item.ModItems;
 import net.minecraft.resources.Identifier;
 
 import org.slf4j.Logger;
@@ -13,6 +16,10 @@ public class LuminiteMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModCreativeModeTabs.registerModCreativeModeTabs();
 
+		ModItems.registerModItems();
+
+		ModBlocks.registerModBlocks();
 	}
 }

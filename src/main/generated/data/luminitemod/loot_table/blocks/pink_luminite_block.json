@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "luminitemod:pink_luminite_block"
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}

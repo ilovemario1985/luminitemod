@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "luminitemod:block/polished_pink_luminite"
+  }
+}

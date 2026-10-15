@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "luminitemod:block/smooth_pink_luminite",
+    "side": "luminitemod:block/smooth_pink_luminite",
+    "top": "luminitemod:block/smooth_pink_luminite"
+  }
+}

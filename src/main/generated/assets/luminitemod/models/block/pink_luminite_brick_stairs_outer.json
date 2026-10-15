@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "luminitemod:block/pink_luminite_bricks",
+    "side": "luminitemod:block/pink_luminite_bricks",
+    "top": "luminitemod:block/pink_luminite_bricks"
+  }
+}

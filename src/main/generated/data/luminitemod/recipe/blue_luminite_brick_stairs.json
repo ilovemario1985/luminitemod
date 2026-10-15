@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "blue_luminite_bricks",
+  "key": {
+    "#": "luminitemod:blue_luminite_bricks"
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "luminitemod:blue_luminite_brick_stairs"
+  }
+}

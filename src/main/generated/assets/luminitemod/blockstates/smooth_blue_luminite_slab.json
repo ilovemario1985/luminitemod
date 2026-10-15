@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "luminitemod:block/smooth_blue_luminite_slab"
+    },
+    "type=double": {
+      "model": "luminitemod:block/smooth_blue_luminite"
+    },
+    "type=top": {
+      "model": "luminitemod:block/smooth_blue_luminite_slab_top"
+    }
+  }
+}

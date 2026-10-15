@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "luminitemod:block/nether_luminite_ore"
+  }
+}

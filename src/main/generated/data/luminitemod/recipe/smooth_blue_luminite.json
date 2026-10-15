@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": "luminitemod:blue_luminite_block",
+  "result": {
+    "id": "luminitemod:smooth_blue_luminite"
+  }
+}

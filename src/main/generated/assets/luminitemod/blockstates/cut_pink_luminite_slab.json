@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "luminitemod:block/cut_pink_luminite_slab"
+    },
+    "type=double": {
+      "model": "luminitemod:block/cut_pink_luminite"
+    },
+    "type=top": {
+      "model": "luminitemod:block/cut_pink_luminite_slab_top"
+    }
+  }
+}
